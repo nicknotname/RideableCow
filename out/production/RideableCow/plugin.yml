@@ -1,0 +1,9 @@
+name: RideableCow
+version: 1.0
+author: BoomBoomCh
+main: com.boomboomch.rideablecow.Main
+api-version: 1.16
+commands:
+  help2:
+    description: The second help page!
+    usage: /help2

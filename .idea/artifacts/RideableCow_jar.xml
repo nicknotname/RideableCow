@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RideableCow:jar">
+    <output-path>$PROJECT_DIR$/../../Plugin Development/TestServer/plugins</output-path>
+    <root id="archive" name="RideableCow.jar">
+      <element id="module-output" name="RideableCow" />
+    </root>
+  </artifact>
+</component>
